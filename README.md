@@ -1,4 +1,4 @@
-# 👋 Привет, я 1kodexxx
+# 🧠💻 Привет, я 1kodexxx
 
 ### 🚀 Fullstack разработчик — делаю магию на фронте и бэке
 
@@ -15,6 +15,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
@@ -24,6 +26,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 #### 🗄️ Базы данных
@@ -49,8 +52,8 @@
 
 ### 🤝 Со мной можно связаться
 
-- Telegram: [@your_telegram](https://t.me/your_telegram)
-- Почта: `youremail@example.com`
+- Telegram: [@pvntheraxxx](https://t.me/pvntheraxxx)
+- Почта: `pvntheraxxx@gmail.com`
 
 ---
 

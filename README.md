@@ -3,7 +3,7 @@
 ### 🚀 Fullstack разработчик — делаю магию на фронте и бэке
 
 ![Profile views](https://komarev.com/ghpvc/?username=1kodexxx&style=flat&color=blue)
-[![Telegram](https://img.shields.io/badge/Telegram-@@pvntheraxxx-red?logo=telegram)](https://t.me/your_telegram)
+[![Telegram](https://img.shields.io/badge/Telegram-@pvntheraxxx-red?logo=telegram)](https://t.me/your_telegram)
 ![GitHub followers](https://img.shields.io/github/followers/1kodexxx?label=Followers&style=flat)
 
 ---
